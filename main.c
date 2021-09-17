@@ -35,5 +35,5 @@ int main(void) {
 		putchar('0');
 	printf("%d\n", fract);
 
-	return 0;
+	return 1;
 }
