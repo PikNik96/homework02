@@ -34,4 +34,6 @@ int main(void) {
 	while (leading_zeroes--)
 		putchar('0');
 	printf("%d\n", fract);
+
+	return 0;
 }
